@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 ### 👋&nbsp;&nbsp;Heey!
 
-I'm **Christian Ho**, 
-
-I came from Vietnam, but currently, I live in Japan and work at a small startup company as a **Full stack Engineer**.
+I'm **Christian Ho**, I came from Vietnam, but currently, I live in Japan and work at a small startup company as a **Full stack Engineer**.
 
 Also, I'm a **Indie Game developer** and a **Tech blogger**.
 
-### 👨‍💻&nbsp;&nbsp;&nbsp;My Personal Projects:
+### 👨‍💻&nbsp;&nbsp;&nbsp;Fun fact:
 - Tool: [Icons](https://toolhub.dev/icons/)
 - 💬 Blogger at [Toolhub.dev](http://toolhub.dev/)
 - 📫 See me on [LinkedIn](https://www.linkedin.com/in/christian-ho-0728495a/)
@@ -33,12 +31,14 @@ Also, I'm a **Indie Game developer** and a **Tech blogger**.
 
 <br><br>
 
+### ⚡ Github 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tokyoshare&show_icons=true&locale=en" alt="tokyoshare" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tokyoshare&" alt="tokyoshare" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tokyoshare&show_icons=true&locale=en&layout=compact" alt="tokyoshare" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tokyoshare&show_icons=true&locale=en" alt="tokyoshare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tokyoshare&" alt="tokyoshare" /></p>
+
 
 ### Support
-<p><a href="https://www.buymeacoffee.com/yunikoonjp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunikoonjp" /></a></p>
+<p align="center"><a align="center" href="https://www.buymeacoffee.com/yunikoonjp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yunikoonjp" /></a></p>
 
