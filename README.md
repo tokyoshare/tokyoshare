@@ -32,9 +32,10 @@ Also, I'm a **Indie Game developer** and a **Tech blogger**.
 
 ### ⚡ Github 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tokyoshare&show_icons=true&locale=en&layout=compact" alt="tokyoshare" /></p><br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tokyoshare&show_icons=true&locale=en" alt="tokyoshare" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tokyoshare&" alt="tokyoshare" /></p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tokyoshare&show_icons=true&locale=en)](https://github.com/tokyoshare)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=tokyoshare&show_icons=true&locale=en&layout=compact)](https://github.com/tokyshare)
+[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tokyoshare&)](https://github.com/tokyoshare)
+
 
 
 ### Support
