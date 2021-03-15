@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm **Christian Ho**, I came from Vietnam, but currently, I live in Japan and work at a startup company as a **Full stack Engineer**.
 
-Also, I'm a **Indie Game developer** and a **Tech blogger**.
+Also, I'm an **Indie Game developer** and a **Tech blogger**.
 
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
